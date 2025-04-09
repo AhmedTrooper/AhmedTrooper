@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Used Languages, Frameworks and Tools:</h3>
 
 
 
@@ -116,7 +116,7 @@
 
 ## 🧨 Language, Frameworks & Tools I'm used to.....
 
-| SL | Programming Language | Concepts | Frameworks |
+| SL | Programming Language | Concepts | Frameworks/Tools |
 |------------|-----------------|-----------------|-----------------|
 | 01 |    Javascript     |     OOP, File, Blob, Async programming     |   ReactJS , VueJS , NodeJS, ExpressJS, NextJS   |
 | 02 |    Typescript     |    Interface, Type, Generics, Utility     |    ReactTS, VueTS     |
@@ -129,13 +129,13 @@
 | 09 |    Kotlin     |    OOP    |    None    |
 | 10 |    SQL     |    .....    |    SQLIte    |
 | 11 |  NoSQL    | ..... | MongoDB, Mongoose |
-| 12 | DevOps | Github, Docker | None | 
+| 12 | DevOps | None | Github, Docker | 
 
 
-## 🎗️ Awards & Winnings
-| SL | Award | Project Code | Project Demo | External resources | 
-|------------|-----------------|-----------------|-----------------|----------------|
-| 01 | Won divisional & Regional Math Olympiad 2 times and Participated in National Phase | None | None | None |
+## 🎗️ Participation, Awards & Winnings
+| SL | Award, Participation | Project Source Code | Project Demo/Experience | Achieved Position | External resources | 
+|------------|-----------------|-----------------|-----------------|----------------|-----------------|
+| 01 | Won divisional & Regional Math Olympiad 2 times and Participated in National Phase | None | None | None | None |
 
 
 

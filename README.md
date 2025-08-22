@@ -8,14 +8,19 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
-## 2nd year CSE student of [Jagannath University,Dhaka,Bangladesh](https://jnu.ac.bd/)
+## 2nd Year CSE Student at [Jagannath University, Dhaka, Bangladesh](https://jnu.ac.bd/)
 
-- 👀 I’m interested in OS Kernel, Mathematics, FOSS software solution...
-- 🌱 I’ve currently started doing projects, learning DSA & required Mathematics for CP...
-- 💞️ Looking to collaborate on projects and repo if it aligns with my skills and interests....
-- 📫 If you want to reach me, can DM in Linkedin .....
+- 👀 Interested in **OS Kernel**, **Mathematics**, and **FOSS software solutions**
+- 🌱 Currently working on **projects**, and learning **DSA** & the necessary mathematics for **competitive programming**
+- 💞️ Open to **collaboration** on projects and repositories that match my skills and interests
+- 📫 Reach me via **LinkedIn DM**
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AhmedTrooper&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ahmedtrooper/)
+- [Facebook](https://web.facebook.com/profile.php?id=100093120975762)
+- [Email](mailto:b220305006@cse.jnu.ac.bd)
+- [Portfolio](https://personal-portfolio-ahmedtroopers-projects.vercel.app/)
 
 ## 🚀 Featured Projects
 
@@ -201,6 +206,7 @@
 
 ## 🎗️ Participation, Awards & Winnings
 
-| SL  | Award, Participation                                                               | Project Source Code | Project Demo/Experience | Achieved Position | External resources |
-| --- | ---------------------------------------------------------------------------------- | ------------------- | ----------------------- | ----------------- | ------------------ |
-| 01  | Won divisional & Regional Math Olympiad 2 times and Participated in National Phase | None                | None                    | None              | None               |
+| SL  | Award, Participation                                                               | Project Source Code                                        | Project Demo/Experience | Achieved Position | External resources |
+| --- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------- | ----------------- | ------------------ |
+| 01  | Won divisional & Regional Math Olympiad 2 times and Participated in National Phase | –                                                          | –                       | –                 | –                  |
+| 02  | Participated in IUT CSE Fest 2024 (Fest Management Project)                        | [Github](https://github.com/AhmedTrooper/AIFestManagement) | -                       | –                 | –                  |

@@ -161,13 +161,14 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
-  <!-- Top Languages (only main programming languages, hide tooling & markup) -->
+  <!-- Top Languages (only main languages + frameworks you want) -->
   <div>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtrooper&hide=html,css,json,cmake&show_icons=true&locale=en&layout=compact" 
-      alt="Top Languages" 
-      style="border-radius: 8px; padding: 10px; background-color: #f5f5f5;"
-    >
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtrooper&hide=c,cpp,c++,javascript,html,css,json,cmake,scss,markdown,xml,txt&show_icons=true&locale=en&layout=compact" 
+  alt="Top Languages" 
+  style="border-radius: 8px; padding: 10px; background-color: #f5f5f5;"
+>
+
   </div>
 
   <!-- General GitHub Stats -->
@@ -181,22 +182,22 @@
 
 </div>
 
-## 🧨 Language, Frameworks & Tools I'm used to.....
+## 🧨 Languages, Frameworks & Tools I'm used to
 
-| SL  | Programming Language | Concepts                                      | Frameworks/Tools                            |
-| --- | -------------------- | --------------------------------------------- | ------------------------------------------- |
-| 01  | Javascript           | OOP, File, Blob, Async programming            | ReactJS , VueJS , NodeJS, ExpressJS, NextJS |
-| 02  | Typescript           | Interface, Type, Generics, Utility            | ReactTS, VueTS                              |
-| 03  | Python               | OOP, File                                     | Django                                      |
-| 04  | Dart                 | OOP, Generics                                 | Flutter                                     |
-| 05  | Rust                 | Ownership, Borrowing, Traits, File , Generics | Tauri V2                                    |
-| 06  | C                    | Struct, Union, DMAllocation, Pointer          | None                                        |
-| 07  | C++                  | OOP, STL, File                                | None                                        |
-| 08  | Java                 | OOP, Thread                                   | JavaFX (current)                            |
-| 09  | Kotlin               | OOP                                           | None                                        |
-| 10  | SQL                  | .....                                         | SQLIte                                      |
-| 11  | NoSQL                | .....                                         | MongoDB, Mongoose                           |
-| 12  | DevOps               | None                                          | Github, Docker                              |
+| SL  | Programming Language       | Concepts                                     | Frameworks / Tools                                                                                                                                                                 |
+| --- | -------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | Typescript                 | Interface, Type, Generics, Utility           | **ReactTS**, **VueTS**, **Zustand**, **NextJS**, **NodeJS**, **ExpressJS**                                                                                                         |
+| 02  | Python                     | OOP, File                                    | **Django**                                                                                                                                                                         |
+| 03  | Dart                       | OOP, Generics                                | **Flutter**, **Riverpod**                                                                                                                                                          |
+| 04  | Rust                       | Ownership, Borrowing, Traits, File, Generics | **Tauri v2**                                                                                                                                                                       |
+| 05  | Go                         | Concurrency, Interfaces                      | **Gin**                                                                                                                                                                            |
+| 06  | Kotlin                     | OOP                                          | **Jetpack Compose**                                                                                                                                                                |
+| 07  | Java                       | OOP, Thread                                  | **JavaFX**                                                                                                                                                                         |
+| 08  | SQL                        | Queries, Normalization                       | **SQLite**, **MySQL**                                                                                                                                                              |
+| 09  | NoSQL                      | Document & Key-Value                         | **MongoDB**, **Mongoose**, **Prisma**, **Supabase**                                                                                                                                |
+| 10  | DevOps / Tools             | CI/CD, Containers, Version Control           | **Git**, **GitHub**, **Docker**, **Docker Desktop**, **Bash**, **Ngrok**, **PNPM**, **Yarn**, **Postman**, **Insomnia**, **Hoppscotch**, **JetBrains Suite**, **Firefox**, **Tor** |
+| 11  | AI / ML                    | Agent, Chains                                | **LangChain**, **LangGraph**                                                                                                                                                       |
+| 12  | Additional UI / Validation | UI components, Schema validation             | **Zod**, **HeroUI**, **ShadCN**                                                                                                                                                    |
 
 ## 🎗️ Participation, Awards & Winnings
 

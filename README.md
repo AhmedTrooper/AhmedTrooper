@@ -1,7 +1,7 @@
 <div align="center">
   
 # Md. Ramjan Miah
-### Software Engineer | Systems Architect | Open Source Maintainer
+### Software Engineer | Open Source Developer
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmedtrooper.vercel.app-1a1b27?style=for-the-badge)](https://ahmedtrooper.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedtrooper-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmedtrooper)
@@ -13,31 +13,19 @@
 
 ---
 
-## 🎯 Executive Summary
+## 👨‍💻 About Me
 
-```typescript
-const engineer = {
-  focus: ["System Design", "Performance Engineering", "Developer Tools"],
-  expertise: {
-    systems: ["Cross-Platform Desktop Apps", "Distributed Systems", "Real-Time Data Processing"],
-    web: ["Full-Stack Architecture", "API Design", "Modern Frontend Frameworks"],
-    ai_ml: ["LLM Integration", "Computer Vision", "On-Device ML"],
-  },
-  impact: {
-    openSource: "7+ production-ready projects with 1000+ downloads",
-    performance: "Built apps 40% lighter than industry alternatives (25MB vs 180MB)",
-    realWorld: "Solutions deployed for 10,000+ users across Bangladesh",
-  },
-  languages: ["Rust", "TypeScript", "Python", "Golang", "Dart"],
-  architecture: ["Event-Driven", "Microservices", "CQRS", "Clean Architecture"],
-};
-```
+- 🎓 4th Semester CSE Student at Jagannath University
+- 💻 Building cross-platform desktop apps with Tauri, Flutter
+- 🌐 Full-stack web developer (React, Django, NestJS)
+- 🤖 Working with AI/ML (LangChain, Keras, TensorFlow Lite)
+- 📍 Based in Dhaka, Bangladesh
 
 <div align="center">
 
-### 📊 Engineering Metrics
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedtrooper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Analytics" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedtrooper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtrooper&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtrooper&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,markdown&langs_count=8" width="48%" />
@@ -46,12 +34,10 @@ const engineer = {
 
 ---
 
-## 🚀 Flagship Projects
-
-> **Note:** Focused on shipping production-grade software that solves real problems at scale.
+## 🚀 Projects
 
 ### 🐳 [DevOpsEasy](https://github.com/AhmedTrooper/DevOpsEasy)
-**High-Performance Docker Management Platform | 1,000+ Downloads**
+**Docker Management Desktop Application**
 
 <div align="left">
   
@@ -60,18 +46,137 @@ const engineer = {
 [![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/DevOpsEasy/total?style=flat-square&color=9ece6a)](https://github.com/AhmedTrooper/DevOpsEasy/releases)
 [![Stars](https://img.shields.io/github/stars/AhmedTrooper/DevOpsEasy?style=flat-square&color=bb9af7)](https://github.com/AhmedTrooper/DevOpsEasy)
 
-**Tech Stack:** `Tauri v2` `React` `TypeScript` `Rust` `Docker Engine API` `Zustand`
+**Tech Stack:** `Tauri v2` `React` `TypeScript` `Rust` `Docker API` `Zustand`
 
 </div>
 
-**Engineering Highlights:**
-- 🎯 **Performance Critical**: 25MB installer vs Docker Desktop's 180MB — **86% size reduction**
-- ⚡ **Resource Efficient**: 61MB RAM footprint with real-time metrics (CPU, Memory, Network, Disk I/O)
-- 🏗️ **Architecture**: Event-driven Rust backend with async Docker Engine API integration
-- 🔄 **Feature Parity**: Complete container lifecycle + Docker Compose orchestration
-- 📦 **Cross-Platform**: Single codebase for Windows, Linux, macOS with native performance
+- 🐳 GUI for Docker with real-time container monitoring (CPU, memory, network, disk I/O)
+- 🔄 Container lifecycle management and Docker Compose support
+- ⚡ Lightweight: 25MB installer, ~60MB RAM usage
+- 🖥️ Cross-platform: Windows, Linux, macOS
 
-**Key Metrics:** 40% faster startup time | 70% lower memory usage | Production-ready
+---
+
+### 🚂 [RailwayMatrixBD](https://github.com/AhmedTrooper/RailwayMatrixBD)
+**Railway Route Query Application**
+
+<div align="left">
+  
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/AhmedTrooper/RailwayMatrixBD)
+[![Release](https://img.shields.io/github/v/release/AhmedTrooper/RailwayMatrixBD?style=flat-square&color=7aa2f7)](https://github.com/AhmedTrooper/RailwayMatrixBD/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/RailwayMatrixBD/total?style=flat-square&color=9ece6a)](https://github.com/AhmedTrooper/RailwayMatrixBD/releases)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/RailwayMatrixBD?style=flat-square&color=bb9af7)](https://github.com/AhmedTrooper/RailwayMatrixBD)
+
+**Tech Stack:** `Tauri v2` `Rust` `React` `TypeScript` `Zustand`
+
+</div>
+
+- 🚂 Desktop app for Bangladesh Railway route queries
+- 📊 Matrix-based query: check all station combinations at once
+- 🎯 Includes features not in the official BD Railway app
+- 🖥️ Cross-platform desktop application
+
+---
+
+### 📥 [OSGUI](https://github.com/AhmedTrooper/OSGUI)
+**Media Downloader Desktop Application**
+
+<div align="left">
+  
+[![GitHub](https://img.shields.io/badge/OSGUI-181717?style=flat-square&logo=github)](https://github.com/AhmedTrooper/OSGUI)
+[![Backend](https://img.shields.io/badge/OSD--Downloader-181717?style=flat-square&logo=github)](https://github.com/AhmedTrooper/OSD-Downloader)
+[![Release](https://img.shields.io/github/v/release/AhmedTrooper/OSGUI?style=flat-square&color=7aa2f7)](https://github.com/AhmedTrooper/OSGUI/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/OSGUI/total?style=flat-square&color=9ece6a)](https://github.com/AhmedTrooper/OSGUI/releases)
+
+**Tech Stack:** `Tauri v2` `React` `TypeScript` `yt-dlp` `FFmpeg` `SQLite`
+
+</div>
+
+- 📥 GUI wrapper for yt-dlp with concurrent downloads
+- 🎬 FFmpeg integration for video processing
+- � Supports 1000+ sites
+- 🖥️ Cross-platform: Windows, Linux, macOS
+
+---
+
+### 📊 [MonitorX](https://github.com/AhmedTrooper/MonitorX)
+**Activity Tracking Desktop Application**
+
+<div align="left">
+  
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/AhmedTrooper/MonitorX)
+[![Release](https://img.shields.io/github/v/release/AhmedTrooper/MonitorX?style=flat-square&color=7aa2f7)](https://github.com/AhmedTrooper/MonitorX/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/MonitorX/total?style=flat-square&color=9ece6a)](https://github.com/AhmedTrooper/MonitorX/releases)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/MonitorX?style=flat-square&color=bb9af7)](https://github.com/AhmedTrooper/MonitorX)
+
+**Tech Stack:** `Tauri v2` `Rust` `React` `TypeScript` `Zustand`
+
+</div>
+
+- 📊 System activity tracker for application usage monitoring
+- ⏱️ Tracks window titles and application usage time
+- 🔒 Privacy-focused: all data stored locally
+- 📈 Analytics dashboard for productivity metrics
+
+---
+
+### 🤖 [AIFestManagement](https://github.com/AhmedTrooper/AIFestManagement)
+**Event Management Platform with AI**
+
+<div align="left">
+  
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/AhmedTrooper/AIFestManagement)
+
+**Tech Stack:** `Django REST` `React` `LangChain` `LangGraph` `PostgreSQL`
+
+</div>
+
+- 🤖 Event management with AI-powered natural language queries
+- 👥 Role-based access control (Admin, Organizer, Participant, Attendee)
+- 🔗 LangChain & LangGraph integration for query handling
+- 📊 Event scheduling and participant management
+
+---
+
+### 🍃 [ML-Detector](https://github.com/AhmedTrooper/ML-Detector)
+**Tea Leaf Disease Detection Mobile App**
+
+<div align="left">
+  
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/AhmedTrooper/ML-Detector)
+[![Release](https://img.shields.io/github/v/release/AhmedTrooper/ML-Detector?style=flat-square&color=7aa2f7)](https://github.com/AhmedTrooper/ML-Detector/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/ML-Detector/total?style=flat-square&color=9ece6a)](https://github.com/AhmedTrooper/ML-Detector/releases)
+
+**Tech Stack:** `Flutter` `Keras` `TensorFlow Lite` `Dart`
+
+</div>
+
+- 🍃 Offline tea leaf disease detection using CNN
+- 🎯 ~95% accuracy with TensorFlow Lite
+- 📱 Fully offline mobile app
+- 🌾 Agricultural application
+
+---
+
+### 🚌 [JnU-Bus-Routes](https://github.com/AhmedTrooper/JnU-Bus-Routes)
+**University Bus Route Mobile App**
+
+<div align="left">
+  
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/AhmedTrooper/JnU-Bus-Routes)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/JnU-Bus-Routes/total?style=flat-square&color=9ece6a)](https://github.com/AhmedTrooper/JnU-Bus-Routes/releases)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/JnU-Bus-Routes?style=flat-square&color=bb9af7)](https://github.com/AhmedTrooper/JnU-Bus-Routes)
+
+**Tech Stack:** `Flutter` `Dart` `Riverpod` `SQLite`
+
+</div>
+
+- 🚌 Route information for Jagannath University buses
+- 📍 Helps students navigate campus transportation
+- 💾 Local SQLite database for offline use
+- 🎨 Material Design UI with Riverpod state management
+
+---
 
 ---
 
@@ -223,19 +328,22 @@ const engineer = {
 **Impact:** Daily active users across Jagannath University campus
 
 ---
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Core Languages & Frameworks
+### Languages
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Frontend Engineering
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -243,7 +351,7 @@ const engineer = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Systems
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -258,15 +366,16 @@ const engineer = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Database & Storage
+### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps & Tools
+### Tools & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -276,44 +385,16 @@ const engineer = {
 
 ---
 
-## 🎓 Problem-Solving & Competitive Programming
+## � Achievements
 
 <div align="center">
 
-| Domain | Achievement | Year |
-|--------|-------------|------|
-| 🥇 **Mathematics** | Regional Math Olympiad Winner (2×) | 2019-2020 |
-| 💻 **Algorithms** | Active participant in competitive programming contests | 2019-Present |
-| 🧮 **Data Structures** | Focus on optimization and algorithmic thinking | Ongoing |
+| Achievement | Year |
+|-------------|------|
+| 🥇 Regional Math Olympiad Winner (2× winner) | 2019-2020 |
+| 💻 Active in Competitive Programming Contests | 2019-Present |
 
 </div>
-
----
-
-## 💡 Engineering Principles
-
-```rust
-impl Engineer for Self {
-    fn philosophy(&self) -> Vec<&str> {
-        vec![
-            "Write code that's easy to delete, not easy to extend",
-            "Performance is a feature",
-            "Measure twice, optimize once",
-            "Ship early, iterate fast",
-            "Documentation is love letter to your future self",
-        ]
-    }
-    
-    fn focus_areas(&self) -> [&str; 4] {
-        [
-            "System Design & Architecture",
-            "Performance Engineering",
-            "Developer Experience (DX)",
-            "Open Source Sustainability",
-        ]
-    }
-}
-```
 
 ---
 
@@ -329,13 +410,7 @@ impl Engineer for Self {
 
 <div align="center">
 
-### 🤝 Open to Collaborate On
-
-**System Design** • **Performance Engineering** • **Developer Tools** • **Cross-Platform Applications**
-
 ### 💬 Let's Connect
-
-**Building something interesting? Let's talk.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedtrooper)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:B220305006@cse.jnu.ac.bd)
@@ -343,7 +418,7 @@ impl Engineer for Self {
 
 ---
 
-<sub>⚡ Powered by caffeine, curiosity, and clean code</sub>
+<sub>Thanks for visiting! ⭐ Star some repos if you find them interesting!</sub>
 
 </div>
 | 🎯 **Contestant** | National Math Olympiad | 2020 |

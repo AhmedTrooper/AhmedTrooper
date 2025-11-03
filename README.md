@@ -1,16 +1,17 @@
-# 👋 Hi, I'm Md. Ramjan Miah 
+# 👋 Hi, I'm Md. Ramjan Miah
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
-## Full-Stack Software Engineer | Open Source Contributor
+## Full-Stack Developer | Open Source Contributor | Cross-Platform Specialist
 
 📍 Dhaka, Bangladesh
 
 ### 🚀 About Me
-- 💻 **5+ years** of coding experience across full-stack development, desktop apps, and AI/ML
-- 🛠️ Specialized in building **cross-platform applications** with Tauri, Flutter, and modern web frameworks
+- 💻 **5+ years** of coding experience across web development, desktop applications, and AI/ML
+- 🛠️ Specialized in building **high-performance cross-platform desktop apps** with Tauri & Flutter
+- 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, Django, Next.js, React)
 - 🌟 Active **open-source contributor** with projects used in real-world applications
 - 🧠 Passionate about **performance optimization**, **system design**, and **developer tools**
 
@@ -38,9 +39,10 @@
 
 ## 🚀 Featured Projects
 
-### [**DevOpsEasy**](https://github.com/AhmedTrooper/DevOpsEasy) – Full-Stack Docker Management Desktop Application
+### [**DevOpsEasy**](https://github.com/AhmedTrooper/DevOpsEasy) – Cross-Platform Docker Management Desktop Application
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/DevOpsEasy)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/DevOpsEasy?style=flat&logo=github)](https://github.com/AhmedTrooper/DevOpsEasy/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/DevOpsEasy/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/DevOpsEasy/releases)
 [![Stars](https://img.shields.io/github/stars/AhmedTrooper/DevOpsEasy?style=social)](https://github.com/AhmedTrooper/DevOpsEasy)
 
 ![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
@@ -56,9 +58,10 @@
 
 ---
 
-### [**RailwayMatrixBD**](https://github.com/AhmedTrooper/RailwayMatrixBD) – Full-Stack Railway Management Desktop Application
+### [**RailwayMatrixBD**](https://github.com/AhmedTrooper/RailwayMatrixBD) – Cross-Platform Railway Management Desktop Application
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/RailwayMatrixBD)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/RailwayMatrixBD?style=flat&logo=github)](https://github.com/AhmedTrooper/RailwayMatrixBD/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/RailwayMatrixBD/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/RailwayMatrixBD/releases)
 [![Stars](https://img.shields.io/github/stars/AhmedTrooper/RailwayMatrixBD?style=social)](https://github.com/AhmedTrooper/RailwayMatrixBD)
 
 ![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
@@ -74,10 +77,11 @@
 
 ---
 
-### [**OSGUI/OSD-Downloader**](https://github.com/AhmedTrooper/OSGUI) – Full-Stack Media Download Desktop Application
+### [**OSGUI/OSD-Downloader**](https://github.com/AhmedTrooper/OSGUI) – Cross-Platform Media Download Desktop Application
 [![OSGUI Source](https://img.shields.io/badge/OSGUI-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI)
 [![OSD Source](https://img.shields.io/badge/OSD-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSD-Downloader)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/OSGUI?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/OSGUI/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/OSGUI/releases)
 
 ![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -92,9 +96,10 @@
 
 ---
 
-### [**MonitorX**](https://github.com/AhmedTrooper/MonitorX) – System Activity Tracker Desktop Application
+### [**MonitorX**](https://github.com/AhmedTrooper/MonitorX) – Cross-Platform System Activity Tracker Desktop Application
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/MonitorX)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/MonitorX?style=flat&logo=github)](https://github.com/AhmedTrooper/MonitorX/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/MonitorX/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/MonitorX/releases)
 [![Stars](https://img.shields.io/github/stars/AhmedTrooper/MonitorX?style=social)](https://github.com/AhmedTrooper/MonitorX)
 
 ![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
@@ -129,6 +134,7 @@
 ### [**ML-Detector**](https://github.com/AhmedTrooper/ML-Detector) – Cross-Platform Mobile ML Application
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/ML-Detector)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/ML-Detector?style=flat&logo=github)](https://github.com/AhmedTrooper/ML-Detector/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/ML-Detector/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/ML-Detector/releases)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
@@ -143,6 +149,7 @@
 
 ### [**JnU-Bus-Routes**](https://github.com/AhmedTrooper/JnU-Bus-Routes) – Mobile Route Management Application
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/JnU-Bus-Routes)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/JnU-Bus-Routes/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/JnU-Bus-Routes/releases)
 [![Stars](https://img.shields.io/github/stars/AhmedTrooper/JnU-Bus-Routes?style=social)](https://github.com/AhmedTrooper/JnU-Bus-Routes)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
@@ -155,9 +162,7 @@
 - 💾 Local SQLite database for offline functionality
 - 🎨 Clean UI with Riverpod state management
 
----
-
-## 💻 Technical Skills
+---## 💻 Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

@@ -1,212 +1,221 @@
-# 👋 Hi, I’m Md. Ramjan Miah
-
-![CSE Student](https://img.shields.io/badge/Student-CSE-blue)
-![OS Kernel](https://img.shields.io/badge/Interest-OS%20Kernel-red)
-![Open Source](https://img.shields.io/badge/Open%20Source-FOSS-green)
+# 👋 Hi, I'm Md. Ramjan Miah
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
-## 2nd Year CSE Student at [Jagannath University, Dhaka, Bangladesh](https://jnu.ac.bd/)
+## Full-Stack Software Engineer | Open Source Contributor
 
-- 👀 Interested in **OS Kernel**, **Mathematics**, and **FOSS software solutions**
-- 🌱 Currently working on **projects**, and learning **DSA** & the necessary mathematics for **competitive programming**
-- 💞️ Open to **collaboration** on projects and repositories that match my skills and interests
-- 📫 Reach me via **LinkedIn DM**
+📍 Dhaka, Bangladesh
+
+### 🚀 About Me
+- 💻 **5+ years** of coding experience across full-stack development, desktop apps, and AI/ML
+- 🛠️ Specialized in building **cross-platform applications** with Tauri, Flutter, and modern web frameworks
+- 🌟 Active **open-source contributor** with projects used in real-world applications
+- 🧠 Passionate about **performance optimization**, **system design**, and **developer tools**
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ahmedtrooper/)
-- [Facebook](https://web.facebook.com/profile.php?id=100093120975762)
-- [Email](mailto:b220305006@cse.jnu.ac.bd)
-- [Portfolio](https://personal-portfolio-ahmedtroopers-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedtrooper)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedTrooper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ahmedtrooper.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:B220305006@cse.jnu.ac.bd)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtrooper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtrooper&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,markdown" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtrooper&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-- **RailwayMatrixBD** – Railway seat matrix & visualization system for Bangladesh  
-  ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand)
-  ![GitHub stars](https://img.shields.io/github/stars/AhmedTrooper/RailwayMatrixBD?style=social)
+### [**DevOpsEasy**](https://github.com/AhmedTrooper/DevOpsEasy) – Full-Stack Docker Management Desktop Application
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/DevOpsEasy)
+[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/DevOpsEasy?style=flat&logo=github)](https://github.com/AhmedTrooper/DevOpsEasy/releases)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/DevOpsEasy?style=social)](https://github.com/AhmedTrooper/DevOpsEasy)
 
-- **OSD-Downloader** – Windows-only downloader using **ffmpeg, ffplay, ffprobe & yt-dlp** (bundled)  
-  ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand)
-  ![GitHub stars](https://img.shields.io/github/stars/AhmedTrooper/OSD-Downloader?style=social)
+![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000)
+![Docker](https://img.shields.io/badge/Docker_API-2496ED?logo=docker&logoColor=white)
 
-- **OSGUI** – Cross-platform GUI version of OSD (requires user-installed binaries; supports **Windows, Linux, macOS**)  
-  ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand)
-  ![GitHub stars](https://img.shields.io/github/stars/AhmedTrooper/OSGUI?style=social)
+- 🐳 Comprehensive Docker management GUI with **real-time container monitoring** (CPU, memory, network, disk I/O)
+- 🔄 Full **container lifecycle management** and **Docker Compose orchestration**
+- ⚡ **Ultra-lightweight**: 25MB installer, 61MB RAM usage – faster startup & lower footprint than Docker Desktop
+- 🖥️ Cross-platform support for Windows, Linux, and macOS
 
-- **MonitorX** – Robust background **system activity tracker** (built on ActivityWatch; more handy)  
-  ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand)
-  ![GitHub stars](https://img.shields.io/github/stars/AhmedTrooper/MonitorX?style=social)
+---
 
-- **JnU-Bus-Routes** – Route mapping solution for **Jagannath University buses**  
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-  ![Riverpod](https://img.shields.io/badge/Riverpod-000000?logo=riverpod)
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-  ![GitHub stars](https://img.shields.io/github/stars/AhmedTrooper/JnU-Bus-Routes?style=social)
+### [**RailwayMatrixBD**](https://github.com/AhmedTrooper/RailwayMatrixBD) – Full-Stack Railway Management Desktop Application
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/RailwayMatrixBD)
+[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/RailwayMatrixBD?style=flat&logo=github)](https://github.com/AhmedTrooper/RailwayMatrixBD/releases)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/RailwayMatrixBD?style=social)](https://github.com/AhmedTrooper/RailwayMatrixBD)
 
-<h3 align="left">Used Languages, Frameworks, and Tools:</h3>
+![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000)
 
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="Rust" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Dart / Flutter" width="40" height="40"/>
-  </a>
+- 🚂 Built cross-platform app with **two advanced features** unavailable in official Bangladesh Railway app
+- 📊 **Matrix-based n × n route query**: queries all station combinations in one click
+- ⏱️ Saves approximately **n × [time per query]** seconds for comprehensive route planning
+- 🎯 Real-world impact for Bangladesh railway passengers
 
-  <!-- Frameworks / Libraries -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="40" height="40"/>
-  </a>
-  <a href="https://tauri.app/" target="_blank" rel="noreferrer">
-    <img src="https://tauri.app/_astro/logo.DCjQDXhk_176nMr.svg" alt="Tauri v2" width="80" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/pnpm-000000?style=flat&logo=pnpm&logoColor=white" alt="pnpm" width="60" height="40"/>
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.prisma.io/logo-white.svg" alt="Prisma" width="80" height="40"/>
-  </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT" width="80" height="40"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" alt="LangChain" width="80" height="40"/>
-  </a>
-  <a href="https://langgraph.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langgraph&logoColor=white" alt="LangGraph" width="80" height="40"/>
-  </a>
+---
 
-  <!-- Dev Tools / Platforms -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JetBrains-IDE-000000?style=flat&logo=jetbrains&logoColor=white" alt="JetBrains IDEs" width="100" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-    <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia / Hoppscotch" width="160" height="40"/>
-  </a>
+### [**OSGUI/OSD-Downloader**](https://github.com/AhmedTrooper/OSGUI) – Full-Stack Media Download Desktop Application
+[![OSGUI Source](https://img.shields.io/badge/OSGUI-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI)
+[![OSD Source](https://img.shields.io/badge/OSD-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSD-Downloader)
+[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/OSGUI?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI/releases)
 
-  <!-- OS / Browsers -->
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" width="80" height="40"/>
-  </a>
-  <a href="https://www.fedoraproject.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="40" height="40"/>
-  </a>
-  <a href="https://www.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox&logoColor=white" alt="Firefox" width="80" height="40"/>
-  </a>
-  <a href="https://www.torproject.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tor-000000?style=flat&logo=tor&logoColor=white" alt="Tor" width="60" height="40"/>
-  </a>
-</p>
+![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+- 📥 Lightweight GUI for **yt-dlp** with concurrent downloads and **FFmpeg video processing**
+- 🌐 Supports **1000+ sites** with real-time download controls
+- 🏆 **Outperforms Persepolis** (6.9k stars) in features and platform support
+- 🖥️ Cross-platform: Windows, Linux, macOS
 
-  <!-- Top Languages (only main languages + frameworks you want) -->
-  <div>
-    <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtrooper&hide=c,cpp,c++,javascript,html,css,json,cmake,scss,markdown,xml,txt&show_icons=true&locale=en&layout=compact" 
-  alt="Top Languages" 
-  style="border-radius: 8px; padding: 10px; background-color: #f5f5f5;"
->
+---
 
-  </div>
+### [**MonitorX**](https://github.com/AhmedTrooper/MonitorX) – System Activity Tracker Desktop Application
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/MonitorX)
+[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/MonitorX?style=flat&logo=github)](https://github.com/AhmedTrooper/MonitorX/releases)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/MonitorX?style=social)](https://github.com/AhmedTrooper/MonitorX)
 
-  <!-- General GitHub Stats -->
-  <div>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=ahmedtrooper&show_icons=true&locale=en" 
-      alt="GitHub Stats" 
-      style="border-radius: 8px; padding: 10px; background-color: #f5f5f5;"
-    >
-  </div>
+![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000)
 
-</div>
+- 📊 Robust background **system activity tracker** built on ActivityWatch architecture
+- ⏱️ **Real-time monitoring** of application usage, window titles, and productivity metrics
+- 🎯 More user-friendly and handy than the original ActivityWatch implementation
+- 🔒 Privacy-focused: all data stored locally, no cloud sync
+- 📈 Detailed analytics and visualizations of daily activity patterns
 
-## 🧨 Languages, Frameworks & Tools I'm used to
+---
 
-| SL  | Programming Language       | Concepts                                     | Frameworks / Tools                                                                                                                                                                 |
-| --- | -------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | Typescript                 | Interface, Type, Generics, Utility           | **ReactTS**, **VueTS**, **Zustand**, **NextJS**, **NodeJS**, **ExpressJS** ,**NestJS**                                                                                                        |
-| 02  | Python                     | OOP, File                                    | **Django**                                                                                                                                                                         |
-| 03  | Dart                       | OOP, Generics                                | **Flutter**, **Riverpod**                                                                                                                                                          |
-| 04  | Rust                       | Ownership, Borrowing, Traits, File, Generics | **Tauri v2** ,**SlintUI**                                                                                                                                                                      |
-| 05  | Go                         | Concurrency, Interfaces                      | **___**                                                                                                                                                                            |
-| 06  | Kotlin                     | OOP                                          | **___**                                                                                                                                                                |
-| 07  | Java                       | OOP, Thread                                  | **___**                                                                                                                                                                         |
-| 08  | SQL                        | Queries, Normalization                       | **SQLite**, **MySQL**                                                                                                                                                              |
-| 09  | NoSQL                      | Document & Key-Value                         | **MongoDB**, **Mongoose**, **Prisma**, **Supabase**                                                                                                                                |
-| 10  | DevOps / Tools             | CI/CD, Containers, Version Control           | **Git**, **GitHub**, **Docker**, **Docker Desktop**, **Bash**, **Ngrok**, **PNPM**, **Yarn**, **Postman**, **Insomnia**, **Hoppscotch**, **JetBrains Suite**, **Firefox**, **Tor** |
-| 11  | AI / ML                    | Agent, Chains                                | **LangChain**, **LangGraph**                                                                                                                                                       |
-| 12  | Additional UI / Validation | UI components, Schema validation             | **Zod**, **HeroUI**, **ShadCN**                                                                                                                                                    |
+### [**AIFestManagement**](https://github.com/AhmedTrooper/AIFestManagement) – Full-Stack Web & AI Platform
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/AIFestManagement)
 
-## 🎗️ Participation, Awards & Winnings
+![Django](https://img.shields.io/badge/Django_REST-092E20?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000)
 
-| SL  | Award, Participation                                                               | Project Source Code                                        | Project Demo/Experience | Achieved Position | External resources |
-| --- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------- | ----------------- | ------------------ |
-| 01  | Won divisional & Regional Math Olympiad 2 times and Participated in National Phase | –                                                          | –                       | –                 | –                  |
-| 02  | Participated in IUT CSE Fest 2024 (Fest Management Project)                        | [Github](https://github.com/AhmedTrooper/AIFestManagement) | -                       | –                 | –                  |
+- 🤖 Fest management platform with **AI-powered natural language queries**
+- 👥 **Role-based access control** workflows for different user types
+- 🔗 Integration of **LangChain** and **LangGraph** for intelligent query handling
+- 📊 Event scheduling, participant management, and analytics dashboard
+
+---
+
+### [**ML-Detector**](https://github.com/AhmedTrooper/ML-Detector) – Cross-Platform Mobile ML Application
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/ML-Detector)
+[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/ML-Detector?style=flat&logo=github)](https://github.com/AhmedTrooper/ML-Detector/releases)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?logo=tensorflow&logoColor=white)
+
+- 🍃 **Offline tea leaf disease detection** app using on-device CNN
+- 🎯 Achieves **~95% accuracy** with TensorFlow Lite
+- 📱 Fully offline, no internet required for predictions
+- 🌾 Real-world agricultural application
+
+---
+
+### [**JnU-Bus-Routes**](https://github.com/AhmedTrooper/JnU-Bus-Routes) – Mobile Route Management Application
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/JnU-Bus-Routes)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/JnU-Bus-Routes?style=social)](https://github.com/AhmedTrooper/JnU-Bus-Routes)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-000000)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+
+- 🚌 Route mapping solution for **Jagannath University buses**
+- 📍 Helps students navigate campus transportation efficiently
+- 💾 Local SQLite database for offline functionality
+- 🎨 Clean UI with Riverpod state management
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcnui&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+### AI/ML
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
+
+---
+
+## 🏆 Achievements & Participations
+
+| Achievement | Details | Year |
+|------------|---------|------|
+| 🥇 **Winner** | Regional Math Olympiad (2× winner) | 2019-2020 |
+| 🎯 **Contestant** | National Math Olympiad | 2020 |
+| 🎓 **Participant** | IUT CSE Fest 2024 | 2024 |
+| 🚀 **Participant** | NASA SpaceX Challenge 2025 | 2025 |
+| 🤖 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025 |

@@ -9,6 +9,7 @@
 📍 Dhaka, Bangladesh
 
 ### 🚀 About Me
+
 - 💻 **5+ years** of coding experience across web development, desktop applications, and AI/ML
 - 🛠️ Specialized in building **high-performance cross-platform desktop apps** with Tauri & Flutter
 - 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, Django, Next.js, React)
@@ -40,6 +41,7 @@
 ## 🚀 Featured Projects
 
 ### [**DevOpsEasy**](https://github.com/AhmedTrooper/DevOpsEasy) – Cross-Platform Docker Management Desktop Application
+
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/DevOpsEasy)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/DevOpsEasy?style=flat&logo=github)](https://github.com/AhmedTrooper/DevOpsEasy/releases)
 [![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/DevOpsEasy/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/DevOpsEasy/releases)
@@ -58,7 +60,29 @@
 
 ---
 
+### [**BIM**](https://github.com/AhmedTrooper/BIM) – Cross-Platform batch image manipulator
+
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/BIM)
+[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/BIM?style=flat&logo=github)](https://github.com/AhmedTrooper/BIM/releases)
+[![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/BIM/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/BIM/releases)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/BIM?style=social)](https://github.com/AhmedTrooper/BIM)
+
+![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000)
+
+- ⚡ **Batch image processing**: convert, resize, and manage images efficiently
+- 🔄 **Full workflow support**: handle multiple images asynchronously with real-time progress
+- 🖥️ **Cross-platform**: Windows, Linux, and macOS support
+- ✨ **Modern & responsive UI**: built with React, TailwindCSS, and Framer Motion
+- 🔧 **Lightweight & modular**: Tauri backend, Zustand state management, FFmpeg integration
+- 🔔 **Smart features**: update checking, flexible configuration, and fast performance
+
+---
+
 ### [**RailwayMatrixBD**](https://github.com/AhmedTrooper/RailwayMatrixBD) – Cross-Platform Railway Management Desktop Application
+
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/RailwayMatrixBD)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/RailwayMatrixBD?style=flat&logo=github)](https://github.com/AhmedTrooper/RailwayMatrixBD/releases)
 [![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/RailwayMatrixBD/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/RailwayMatrixBD/releases)
@@ -78,6 +102,7 @@
 ---
 
 ### [**OSGUI/OSD-Downloader**](https://github.com/AhmedTrooper/OSGUI) – Cross-Platform Media Download Desktop Application
+
 [![OSGUI Source](https://img.shields.io/badge/OSGUI-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI)
 [![OSD Source](https://img.shields.io/badge/OSD-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSD-Downloader)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/OSGUI?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI/releases)
@@ -97,6 +122,7 @@
 ---
 
 ### [**MonitorX**](https://github.com/AhmedTrooper/MonitorX) – Cross-Platform System Activity Tracker Desktop Application
+
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/MonitorX)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/MonitorX?style=flat&logo=github)](https://github.com/AhmedTrooper/MonitorX/releases)
 [![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/MonitorX/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/MonitorX/releases)
@@ -117,6 +143,7 @@
 ---
 
 ### [**AIFestManagement**](https://github.com/AhmedTrooper/AIFestManagement) – Full-Stack Web & AI Platform
+
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/AIFestManagement)
 
 ![Django](https://img.shields.io/badge/Django_REST-092E20?logo=django&logoColor=white)
@@ -132,6 +159,7 @@
 ---
 
 ### [**ML-Detector**](https://github.com/AhmedTrooper/ML-Detector) – Cross-Platform Mobile ML Application
+
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/ML-Detector)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/ML-Detector?style=flat&logo=github)](https://github.com/AhmedTrooper/ML-Detector/releases)
 [![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/ML-Detector/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/ML-Detector/releases)
@@ -148,6 +176,7 @@
 ---
 
 ### [**JnU-Bus-Routes**](https://github.com/AhmedTrooper/JnU-Bus-Routes) – Mobile Route Management Application
+
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/JnU-Bus-Routes)
 [![Downloads](https://img.shields.io/github/downloads/AhmedTrooper/JnU-Bus-Routes/total?style=flat-square&color=blue)](https://github.com/AhmedTrooper/JnU-Bus-Routes/releases)
 [![Stars](https://img.shields.io/github/stars/AhmedTrooper/JnU-Bus-Routes?style=social)](https://github.com/AhmedTrooper/JnU-Bus-Routes)
@@ -162,9 +191,12 @@
 - 💾 Local SQLite database for offline functionality
 - 🎨 Clean UI with Riverpod state management
 
----## 💻 Technical Skills
+---
+
+## 💻 Technical Skills
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -177,6 +209,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -185,6 +218,7 @@
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -192,6 +226,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### AI/ML
+
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -199,6 +234,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ### Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
@@ -206,6 +242,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 ### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -217,10 +254,10 @@
 
 ## 🏆 Achievements & Participations
 
-| Achievement | Details | Year |
-|------------|---------|------|
-| 🥇 **Winner** | Regional Math Olympiad (2× winner) | 2019-2020 |
-| 🎯 **Contestant** | National Math Olympiad | 2020 |
-| 🎓 **Participant** | IUT CSE Fest 2024 | 2024 |
-| 🚀 **Participant** | NASA SpaceX Challenge 2025 | 2025 |
-| 🤖 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025 |
+| Achievement        | Details                                                 | Year      |
+| ------------------ | ------------------------------------------------------- | --------- |
+| 🥇 **Winner**      | Regional Math Olympiad (2× winner)                      | 2019-2020 |
+| 🎯 **Contestant**  | National Math Olympiad                                  | 2020      |
+| 🎓 **Participant** | IUT CSE Fest 2024                                       | 2024      |
+| 🚀 **Participant** | NASA SpaceX Challenge 2025                              | 2025      |
+| 🤖 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025      |

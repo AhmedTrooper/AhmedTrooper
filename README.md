@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 💻 **5+ years** of coding experience across web development, desktop applications, and AI/ML
+- 💻 **5+ years** of coding journey, including **2 years** of professional / effective open-source experience
 - 🛠️ Specialized in building **high-performance cross-platform desktop apps** with Tauri & Flutter
 - 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, Django, Next.js, React)
 - 🌟 Active **open-source contributor** with projects used in real-world applications
@@ -256,8 +256,8 @@
 
 | Achievement        | Details                                                 | Year      |
 | ------------------ | ------------------------------------------------------- | --------- |
-| 🥇 **Winner**      | Regional Math Olympiad (2× winner)                      | 2019-2020 |
-| 🎯 **Contestant**  | National Math Olympiad                                  | 2020      |
+| 🥇 **Winner** | Regional Math Olympiad (2× winner)                      | 2019-2020 |
+| 🎯 **Contestant** | National Math Olympiad                                  | 2020      |
 | 🎓 **Participant** | IUT CSE Fest 2024                                       | 2024      |
 | 🚀 **Participant** | NASA SpaceX Challenge 2025                              | 2025      |
 | 🤖 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025      |

@@ -10,6 +10,10 @@
 
 ### 🚀 About Me
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats-wheat-delta.vercel.app?user=ahmedtrooper)](https://git.io/streak-stats)
+
 - 💻 **5+ years** of coding journey, including **2 years** of professional / effective open-source experience
 - 🛠️ Specialized in building **high-performance cross-platform desktop apps** with Tauri & Flutter
 - 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, Django, Next.js, React)

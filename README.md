@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-- 💻 **5+ years** of coding journey, including **2 years** of professional / effective open-source experience
-- 🛠️ Specialized in building **high-performance cross-platform desktop apps** with Tauri & Flutter
+- 💻 **7 years** of Javascript/Typescript Ecosystem journey, including **2 years** of professional / effective open-source experience
+- 🛠️ Specialized in building **high-performance cross-platform applications** with Tauri V2 & Flutter
 - 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, Django, Next.js, React)
 - 🌟 Active **open-source contributor** with projects used in real-world applications
 - 🧠 Passionate about **performance optimization**, **system design**, and **developer tools**
@@ -36,7 +36,6 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedTrooper&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTrooper&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Languages" />
 </div>
 
@@ -78,7 +77,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ### Frontend
 
@@ -86,19 +84,19 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### AI/ML
-
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-02569B?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)

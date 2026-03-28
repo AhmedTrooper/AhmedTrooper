@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 💻 **7 years** of Javascript/Typescript Ecosystem journey, including **2 years** of professional / effective open-source experience
+- 💻 **7 years** of Javascript/Typescript Ecosystem journey [4 years of pre-university journey ] , including **2 years** of professional / effective open-source experience
 - 🛠️ Specialized in building **high-performance cross-platform applications** with Tauri V2 & Flutter
 - 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, Django, Next.js, React)
 - 🌟 Active **open-source contributor** with projects used in real-world applications

@@ -66,9 +66,8 @@
 ---
 
 
-</details>
 
----
+
 
 ## 💻 Technical Skills
 

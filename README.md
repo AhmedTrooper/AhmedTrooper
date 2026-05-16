@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Md. Ramjan Miah
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
 ## Lead Maintainer AhmedTrooper@CVSynth / AhmedTrooper@OSGUI | Full-Stack & System Engineer
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 💻 **7 years** of Javascript/Typescript Ecosystem journey [6 years of pre-industry journey ] , including **2 years** of professional / effective open-source experience
+- 💻 **7 years** of Javascript/Typescript Ecosystem journey [6 years of pre-industry journey], including **2 years** of professional / effective open-source experience
 - 🛠️ Specialized in building **high-performance cross-platform applications** with Tauri V2 & Flutter
 - 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, FastAPI, Next.js, React)
 - 🌟 Active **open-source contributor** with projects used in real-world applications
@@ -43,7 +43,21 @@
 
 ## 🚀 Featured Projects
 
+### [**CVSynth**](https://github.com/AhmedTrooper/CVSynth) – AI-Powered Synthesis Framework
 
+[![CVSynth Source](https://img.shields.io/badge/CVSynth-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth)
+[![Stars](https://img.shields.io/github/stars/AhmedTrooper/CVSynth?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth/stargazers)
+[![Forks](https://img.shields.io/github/forks/AhmedTrooper/CVSynth?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth/network/members)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+- 🧠 Advanced AI integration leveraging modern deep learning and LLM orchestration (LangChain/LangGraph)
+- ⚡ High-performance data processing pipelines built for scalability and efficiency
+- 🛠️ Designed with a robust backend architecture to handle complex generation and synthesis tasks
 
 ### [**OSGUI/OSD-Downloader**](https://github.com/AhmedTrooper/OSGUI) – Cross-Platform Media Download Desktop Application
 
@@ -60,14 +74,9 @@
 
 - 📥 Lightweight GUI for **yt-dlp** with concurrent downloads and **FFmpeg video processing**
 - 🌐 Supports **1000+ sites** with real-time download controls
-- 🏆 **Outperforms Persepolis** (6.9k stars) in features and platform support
 - 🖥️ Cross-platform: Windows, Linux, macOS
 
 ---
-
-
-
-
 
 ## 💻 Technical Skills
 
@@ -77,6 +86,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -86,7 +96,6 @@
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcnui&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -95,6 +104,7 @@
 ![Tauri V2](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 
 ### AI/ML
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-02569B?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
@@ -123,10 +133,10 @@
 
 ## 🏆 Achievements & Participations
 
-| Achievement        | Details                                                 | Year      |
+| Achievement        | Details                                                 | Year      |
 | ------------------ | ------------------------------------------------------- | --------- |
-| 🥇 **Winner** | Regional Math Olympiad (2× winner)                      | 2019-2020 |
-| 🎯 **Contestant** | National Math Olympiad                                  | 2020      |
-| 🎓 **Participant** | IUT CSE Fest 2024                                       | 2024      |
-| 🚀 **Participant** | NASA SpaceX Challenge 2025                              | 2025      |
-| 🤖 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025      |
+| 🥇 **Winner**      | Regional Math Olympiad (2× winner)                      | 2019-2020 |
+| 🎯 **Contestant**  | National Math Olympiad                                  | 2020      |
+| 🎓 **Participant** | IUT CSE Fest 2024                                       | 2024      |
+| 🚀 **Participant** | NASA SpaceX Challenge 2025                              | 2025      |
+| 🤖 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025      |

@@ -43,21 +43,24 @@
 
 ## 🚀 Featured Projects
 
-### [**CVSynth**](https://github.com/AhmedTrooper/CVSynth) – AI-Powered Synthesis Framework
+### 🔬 [**CVSynth**](https://github.com/AhmedTrooper/CVSynth) – AI-Powered Resume Tailorer & Job Tracker
 
 [![CVSynth Source](https://img.shields.io/badge/CVSynth-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth)
-[![Stars](https://img.shields.io/github/stars/AhmedTrooper/CVSynth?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth/stargazers)
-[![Forks](https://img.shields.io/github/forks/AhmedTrooper/CVSynth?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth/network/members)
+[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/CVSynth?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth/releases)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
-- 🧠 Advanced AI integration leveraging modern deep learning and LLM orchestration (LangChain/LangGraph)
-- ⚡ High-performance data processing pipelines built for scalability and efficiency
-- 🛠️ Designed with a robust backend architecture to handle complex generation and synthesis tasks
+**Your personal AI career assistant.** Land your next role with CVSynth. This privacy-first desktop app takes the friction out of job hunting by analyzing job descriptions, using AI to surgically tailor your resume, generating flawless PDFs instantly, and tracking your entire application journey—all without your data ever leaving your desktop.
+
+- **🎯 Precision Tailoring:** LLM-powered analysis to perfectly align your experience with specific job requirements.
+- **🏗️ Instant PDFs:** Real-time compilation of LaTeX source into professional documents via the Tectonic engine.
+- **📂 Unified Workspace:** Track and manage all your job applications and tailored resumes in one secure location.
+
+<br>
 
 ### [**OSGUI/OSD-Downloader**](https://github.com/AhmedTrooper/OSGUI) – Cross-Platform Media Download Desktop Application
 

@@ -48,11 +48,10 @@
 [![CVSynth Source](https://img.shields.io/badge/CVSynth-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/CVSynth?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth/releases)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chain&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![Tauri V2](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
+![Tectonic](https://img.shields.io/badge/Tectonic-008080?logo=latex&logoColor=white)
 
 **Your personal AI career assistant.** Land your next role with CVSynth. This privacy-first desktop app takes the friction out of job hunting by analyzing job descriptions, using AI to surgically tailor your resume, generating flawless PDFs instantly, and tracking your entire application journey—all without your data ever leaving your desktop.
 

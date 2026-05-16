@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
-## Lead Maintainer github/AhmedTrooper@OSGUI | Full-Stack Developer | Open Source Contributor | Cross-Platform Specialist
+## Lead Maintainer AhmedTrooper@CVSynth / AhmedTrooper@OSGUI | Full-Stack & System Engineer
 
 📍 Dhaka, Bangladesh
 

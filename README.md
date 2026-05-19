@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
-## Lead Maintainer AhmedTrooper@CVSynth / AhmedTrooper@OSGUI | Full-Stack & System Engineer
+## Lead Maintainer AhmedTrooper@RoleTect / AhmedTrooper@OSGUI | Full-Stack & System Engineer
 
 📍 Dhaka, Bangladesh
 
@@ -43,17 +43,20 @@
 
 ## 🚀 Featured Projects
 
-### 🔬 [**CVSynth**](https://github.com/AhmedTrooper/CVSynth) – AI-Powered Resume Tailorer & Job Tracker
+### 🔬 [**RoleTect**](https://github.com/AhmedTrooper/RoleTect) – AI-Powered Resume Tailorer & Job Tracker
 
-[![CVSynth Source](https://img.shields.io/badge/CVSynth-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth)
-[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/CVSynth?style=flat&logo=github)](https://github.com/AhmedTrooper/CVSynth/releases)
+[![RoleTect Source](https://img.shields.io/badge/RoleTect-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/RoleTect)
+[![Releases](https://img.shields.io/github/v/release/AhmedTrooper/RoleTect?style=flat&logo=github)](https://github.com/AhmedTrooper/RoleTect/releases)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFE56F?logo=vue.js&logoColor=black)
 ![Tauri V2](https://img.shields.io/badge/Tauri_v2-FFC131?logo=tauri&logoColor=black)
 ![Tectonic](https://img.shields.io/badge/Tectonic-008080?logo=latex&logoColor=white)
 
-**Your personal AI career assistant.** Land your next role with CVSynth. This privacy-first desktop app takes the friction out of job hunting by analyzing job descriptions, using AI to surgically tailor your resume, generating flawless PDFs instantly, and tracking your entire application journey—all without your data ever leaving your desktop.
+**Your personal AI career assistant.** Land your next role with RoleTect. This privacy-first desktop/ self-deployable web application takes the friction out of job hunting by analyzing job descriptions, using AI to surgically tailor your resume, generating flawless PDFs instantly, and tracking your entire application journey—all without your data ever leaving your desktop.
 
 - **🎯 Precision Tailoring:** LLM-powered analysis to perfectly align your experience with specific job requirements.
 - **🏗️ Instant PDFs:** Real-time compilation of LaTeX source into professional documents via the Tectonic engine.

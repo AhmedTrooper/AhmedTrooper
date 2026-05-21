@@ -43,7 +43,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔬 [**RoleTect**](https://github.com/AhmedTrooper/RoleTect) – AI-Powered Resume Tailorer & Job Tracker
+### 🔬 [**RoleTect**](https://github.com/AhmedTrooper/RoleTect) – AI-Powered Latex IDE [ Zero dependency management, powered by Tectonic], Job Vault & Resume Tailorer per job 
 
 [![RoleTect Source](https://img.shields.io/badge/RoleTect-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/RoleTect)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/RoleTect?style=flat&logo=github)](https://github.com/AhmedTrooper/RoleTect/releases)

@@ -14,7 +14,7 @@
 - 🛠️ Specialized in building **high-performance cross-platform applications** with Tauri V2 & Flutter
 - 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, FastAPI, Next.js, React)
 - 🌟 Active **open-source contributor** with projects used in real-world applications
-- 🧠 Passionate about **performance optimization**, **system design**, and **developer tools**
+- 🧠 Passionate about **system programming**, **low level design**, and **developer tools**
 
 ## 📫 Connect with Me
 

@@ -9,7 +9,6 @@
 📍 Dhaka, Bangladesh
 
 ### 🚀 About Me
-
 - 💻 **7 years** of Javascript/Typescript Ecosystem journey [6 years of pre-industry journey], including **2 years** of professional / effective open-source experience
 - 🛠️ Specialized in building **high-performance cross-platform applications** with Tauri V2 & Flutter
 - 🌐 Full-stack web developer experienced in **modern frameworks** (NestJS, FastAPI, Next.js, React)

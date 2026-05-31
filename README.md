@@ -63,7 +63,7 @@
 
 <br>
 
-### [**OSGUI/OSD-Downloader**](https://github.com/AhmedTrooper/OSGUI) – Cross-Platform Media Download Desktop Application
+### [**Synclime/OSD-Downloader**](https://github.com/AhmedTrooper/Synclime) – Cross-Platform Media Parser Pipeline, supportd youtube, facebook etc [**1000+ sites ** ]( https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md )
 
 [![OSGUI Source](https://img.shields.io/badge/OSGUI-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI)
 [![OSD Source](https://img.shields.io/badge/OSD-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSD-Downloader)

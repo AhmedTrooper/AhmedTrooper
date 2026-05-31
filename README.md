@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
-## Author of AhmedTrooper@RoleTect / AhmedTrooper@OSGUI | Full-Stack & System Engineer
+## Authored AhmedTrooper@RoleTect / AhmedTrooper@Synclime | Full-Stack & System Engineer
 
 📍 Dhaka, Bangladesh
 

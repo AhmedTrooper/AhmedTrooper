@@ -8,7 +8,7 @@
 
 ## Authored AhmedTrooper@RoleTect / AhmedTrooper@Synclime | Full-Stack & System Engineer
 
-📍 Dhaka, Bangladesh
+📍Preferred time-zone : EST-business
 
 ### 🚀 About Me
 - 🛠️ Specialized in building **high-performance cross-platform applications** with Tauri V2 & Flutter

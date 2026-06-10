@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects *
 
 ### 🔬 [**RoleTect**](https://github.com/AhmedTrooper/RoleTect) – AI-Powered Latex IDE [ Zero dependency management, powered by Tectonic], Job Vault & Resume Tailorer per job 
 

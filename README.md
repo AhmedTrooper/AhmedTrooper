@@ -138,10 +138,14 @@
 
 ## 🏆 Achievements & Participations
 
-| Achievement        | Details                                                 | Year      |
-| ------------------ | ------------------------------------------------------- | --------- |
-| 🥇 **Winner**      | Regional Math Olympiad (2× winner)                      | 2019-2020 |
-| 🎯 **Contestant**  | National Math Olympiad                                  | 2020      |
-| 🎓 **Participant** | IUT CSE Fest 2024                                       | 2024      |
+| Achievement        | Details                                                 | Year      |   Project   |
+| ------------------ | ------------------------------------------------------- | --------- | -------------
+| 🥇 **Final (Team Lead, Top 26 in Country)**      | IUT Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/IUT_Techathon_2026)
+| 🎯 **Preli** (Team Lead )  | Sust Codex                                  | 2026      | [**SourceCode**](https://github.com/AhmedTrooper/SUST_Codex_2026)
 | 🚀 **Participant** | NASA SpaceX Challenge 2025                              | 2025      |
 | 🤖 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025      |
+| 🎓 **Participant** | IUT CSE Fest 2024                                       | 2024      |
+| 🎯 **Contestant**  | National Math Olympiad                                  | 2020      |
+| 🥇 **Winner**      | Regional Math Olympiad (2× winner)                      | 2019-2020 |
+
+

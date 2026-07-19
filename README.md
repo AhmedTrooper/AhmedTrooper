@@ -140,7 +140,7 @@
 
 | Achievement        | Details                                                 | Year      |   Project   |
 | ------------------ | ------------------------------------------------------- | --------- | -------------
-| 🥇 **Final, Top 30**      | SciBlitz 2.0 AI Challenge IEEE & CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/Roleect)
+| 🥇 **2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/Roleect)
 | 🥇 **Final, Top 26 in Country**      | IUT Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/IUT_Techathon_2026)
 | 🎯 **Preli**  | Sust Codex                                  | 2026      | [**SourceCode**](https://github.com/AhmedTrooper/SUST_Codex_2026)
 | 🚀 **Participant** | NASA SpaceX Challenge 2025                              | 2025      |

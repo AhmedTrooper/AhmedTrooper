@@ -140,14 +140,16 @@
 
 | Achievement        | Details                                                 | Year      |   Project   |
 | ------------------ | ------------------------------------------------------- | --------- | -------------
-| 🥇 **2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/Roleect)
-| 🥇 **Finalist, Top 15 in Country**      | RoboFusion 1.0 Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/UFTB)
-| 🥇 **Finalist, Top 26 in Country**      | IUT Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/IUT_Techathon_2026)
-| 🎯 **Preli**  | Sust Codex                                  | 2026      | [**SourceCode**](https://github.com/AhmedTrooper/SUST_Codex_2026)
+| 🥇 **1st Runners-up**      | BrainChild AI 2.0 (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
+| 🥇 **2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
+| 🎯 **Finalist      | RoboFusion 1.0 Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/UFTB)
+| 🎯 Finalist      | IUT Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/IUT_Techathon_2026)
+| 🎯 Finalist      | PSTU IT Carnival 2026 Hackathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/pstu-backend)
+| 🚀 **Preli**  | Sust Codex                                  | 2026      | [**SourceCode**](https://github.com/AhmedTrooper/SUST_Codex_2026)
 | 🚀 **Participant** | NASA SpaceX Challenge 2025                              | 2025      |
-| 🤖 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025      |
-| 🎓 **Participant** | IUT CSE Fest 2024                                       | 2024      |
-| 🎯 **Contestant**  | National Math Olympiad                                  | 2020      |
+| 🚀 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025      |
+| 🚀 **Participant** | IUT CSE Fest 2024                                       | 2024      |
+| 🚀 **Contestant**  | National Math Olympiad                                  | 2020      |
 | 🥇 **Winner**      | Regional Math Olympiad (2× winner)                      | 2019-2020 |
 
 

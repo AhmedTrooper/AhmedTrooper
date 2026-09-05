@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
-## Authored AhmedTrooper@RoleTect | Full-Stack & System Engineer
+## Authored AhmedTrooper@RoleTect | Full-Stack and System Engineer
 
 📍Preferred time-zone : EST-business
 

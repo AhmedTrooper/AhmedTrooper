@@ -141,8 +141,8 @@
 | Achievement        | Details                                                 | Year      |   Project   |
 | ------------------ | ------------------------------------------------------- | --------- | -------------
 | 🥇 **1st Runners-up**      | BrainChild AI 2.0 (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
-| 🥇 **2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
-| 🎯 **Finalist      | RoboFusion 1.0 Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/UFTB)
+| 🥇 ***2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
+| 🎯 Finalist      | RoboFusion 1.0 Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/UFTB)
 | 🎯 Finalist      | IUT Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/IUT_Techathon_2026)
 | 🎯 Finalist      | PSTU IT Carnival 2026 Hackathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/pstu-backend)
 | 🚀 **Preli**  | Sust Codex                                  | 2026      | [**SourceCode**](https://github.com/AhmedTrooper/SUST_Codex_2026)

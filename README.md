@@ -43,7 +43,7 @@
 
 ## 🚀 Featured Projects *
 
-### 🔬 [**RoleTect**](https://roletect.tech/) – AI-Powered Latex IDE [ Zero dependency management, powered by Tectonic], Job Vault & Resume Tailorer per job 
+### 🔬 [**RoleTect**](https://github.com/AhmedTrooper/RoleTect) – AI-Powered Latex IDE [ Zero dependency management, powered by Tectonic], Job Vault & Resume Tailor per job 
 
 [![RoleTect Source](https://img.shields.io/badge/RoleTect-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/RoleTect)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/RoleTect?style=flat&logo=github)](https://github.com/AhmedTrooper/RoleTect/releases)
@@ -64,7 +64,7 @@
 
 <br>
 
-### [**Synclime/OSD-Downloader**](https://github.com/AhmedTrooper/Synclime) – Cross-Platform Media Parser Pipeline, supportd youtube, facebook etc [**1000+ sites ** ]( https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md )
+### [**SyncLime/OSD-Downloader**](https://github.com/AhmedTrooper/Synclime) – Cross-Platform Media Parser Pipeline, supportd youtube, facebook etc [**1000+ sites ** ]( https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md )
 
 [![OSGUI Source](https://img.shields.io/badge/OSGUI-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI)
 [![OSD Source](https://img.shields.io/badge/OSD-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSD-Downloader)

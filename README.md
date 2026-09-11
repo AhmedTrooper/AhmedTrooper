@@ -27,6 +27,9 @@
 
 ## 📊 GitHub Statistics
 
+
+[![Outcode rank and score](https://outcode.lol/snippet/AhmedTrooper.svg?period=year&layout=wide)](https://outcode.lol/u/AhmedTrooper)
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTrooper&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
   

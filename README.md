@@ -46,7 +46,7 @@
 
 ## 🚀 Featured Projects *
 
-### 🔬 [**RoleTect**](https://www.roletect.tech/) – Local Alternative to Teal + Overleaf, S3 enabled....
+### 🔬 [**RoleTect**](https://www.roletect.tech/) – Free & Privacy First Alternative to Teal + Overleaf, S3 enabled....
 
 [![RoleTect Source](https://img.shields.io/badge/RoleTect-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/RoleTect)
 [![Releases](https://img.shields.io/github/v/release/AhmedTrooper/RoleTect?style=flat&logo=github)](https://github.com/AhmedTrooper/RoleTect/releases)

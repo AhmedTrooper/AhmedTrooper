@@ -1,5 +1,3 @@
-
-
 👋 Hi, I'm Md. Ramjan Miah
 
 <p align="left"> 
@@ -27,19 +25,14 @@
 
 ## 📊 GitHub Statistics
 
-
-[![Outcode rank and score](https://outcode.lol/snippet/AhmedTrooper.svg?period=year&layout=wide)](https://outcode.lol/u/AhmedTrooper)
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTrooper&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-  
+  <img src="https://git-glyph-puce.vercel.app/api/stats?username=AhmedTrooper&theme=dracula" alt="GitHub Stats Card" />
   <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=AhmedTrooper&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://git-glyph-puce.vercel.app/api/streak?username=AhmedTrooper&theme=dracula" alt="Contribution Streak Card" />
   <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTrooper&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Languages" />
+  <img src="https://git-glyph-puce.vercel.app/api/languages?username=AhmedTrooper&theme=dracula" alt="Top Languages Card" />
+  <br><br>
+  <img src="https://git-glyph-puce.vercel.app/api/pin?username=AhmedTrooper&repo=RoleTect&theme=dracula" alt="Pinned Repository Card" />
 </div>
 
 ---
@@ -143,16 +136,14 @@
 
 | Achievement        | Details                                                 | Year      |   Project   |
 | ------------------ | ------------------------------------------------------- | --------- | -------------
-| 🥇 **1st Runners-up**      | BrainChild AI 2.0 (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
-| 🥇 **2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
-| 🎯 Finalist      | RoboFusion 1.0 Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/UFTB)
-| 🎯 Finalist      | IUT Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/IUT_Techathon_2026)
-| 🎯 Finalist      | PSTU IT Carnival 2026 Hackathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/pstu-backend)
-| 🚀 **Preli**  | Sust Codex                                  | 2026      | [**SourceCode**](https://github.com/AhmedTrooper/SUST_Codex_2026)
+| 🥇 **1st Runners-up**      | BrainChild AI 2.0 (2026)                               | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
+| 🥇 **2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                      | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
+| 🎯 Finalist      | RoboFusion 1.0 Techathon (2026)                             | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/UFTB)
+| 🎯 Finalist      | IUT Techathon (2026)                             | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/IUT_Techathon_2026)
+| 🎯 Finalist      | PSTU IT Carnival 2026 Hackathon (2026)                             | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/pstu-backend)
+| 🚀 **Preli**  | Sust Codex                                   | 2026      | [**SourceCode**](https://github.com/AhmedTrooper/SUST_Codex_2026)
 | 🚀 **Participant** | NASA SpaceX Challenge 2025                              | 2025      |
 | 🚀 **Participant** | VisionX 2025 (AI-powered National Innovation Challenge) | 2025      |
 | 🚀 **Participant** | IUT CSE Fest 2024                                       | 2024      |
 | 🚀 **Contestant**  | National Math Olympiad                                  | 2020      |
 | 🥇 **Winner**      | Regional Math Olympiad (2× winner)                      | 2019-2020 |
-
-

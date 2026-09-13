@@ -67,7 +67,7 @@
 
 <br>
 
-### [**SyncLime/OSD-Downloader**](https://github.com/AhmedTrooper/Synclime) – Cross-Platform Media Parser Pipeline, supportd youtube, facebook etc [**1000+ sites ** ]( https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md )
+### [**SyncLime/OSD-Downloader**](https://github.com/AhmedTrooper/Synclime) – Cross-Platform Media Parser Pipeline using yt-dlp, supports youtube, facebook, X, Rumble etc [**1000+ sites ** ]( https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md )
 
 [![OSGUI Source](https://img.shields.io/badge/OSGUI-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSGUI)
 [![OSD Source](https://img.shields.io/badge/OSD-GitHub-181717?style=flat&logo=github)](https://github.com/AhmedTrooper/OSD-Downloader)
@@ -144,7 +144,7 @@
 | Achievement        | Details                                                 | Year      |   Project   |
 | ------------------ | ------------------------------------------------------- | --------- | -------------
 | 🥇 **1st Runners-up**      | BrainChild AI 2.0 (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
-| 🥇 ***2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
+| 🥇 **2nd Runners-up**      | IEEE SciBlitz 2.0 AI Challenge, CUET (2026)                     | 2026 | [**RoleTect**](https://github.com/AhmedTrooper/RoleTect)
 | 🎯 Finalist      | RoboFusion 1.0 Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/UFTB)
 | 🎯 Finalist      | IUT Techathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/IUT_Techathon_2026)
 | 🎯 Finalist      | PSTU IT Carnival 2026 Hackathon (2026)                     | 2026 | [**SourceCode**](https://github.com/AhmedTrooper/pstu-backend)

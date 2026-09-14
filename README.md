@@ -75,7 +75,7 @@ Privacy-first, AI-powered career assistant. Visit [roletect.tech](https://www.ro
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat)
 ![Tauri V2](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 
-### AI/ML
+<!--### AI/ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-02569B?style=flat)
@@ -106,7 +106,7 @@ Privacy-first, AI-powered career assistant. Visit [roletect.tech](https://www.ro
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)-->
 
 ---
 

@@ -20,21 +20,13 @@
 ## 📊 GitHub Statistics
 [![Outcode rank and score](https://outcode.lol/snippet/AhmedTrooper.svg?period=year&layout=wide)](https://outcode.lol/u/AhmedTrooper)
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://git-glyph-puce.vercel.app/api/streak?username=AhmedTrooper&theme=dracula&hide_border=true" alt="Contribution Streak Card" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://git-glyph-puce.vercel.app/api/languages?username=AhmedTrooper&theme=dracula&hide_border=true" alt="Top Languages Card" />
-    </td>
-    <td align="center">
-      <img src="https://git-glyph-puce.vercel.app/api/pin?username=AhmedTrooper&repo=RoleTect&theme=dracula&hide_border=true" alt="Pinned Repository Card" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://git-glyph-puce.vercel.app/api/streak?username=AhmedTrooper&theme=dracula&hide_border=true" alt="Contribution Streak Card" />
+  <br><br>
+  <img src="https://git-glyph-puce.vercel.app/api/languages?username=AhmedTrooper&theme=dracula&hide_border=true" alt="Top Languages Card" />
+  <br><br>
+  <img src="https://git-glyph-puce.vercel.app/api/pin?username=AhmedTrooper&repo=RoleTect&theme=dracula&hide_border=true" alt="Pinned Repository Card" />
+</div>
 
 ---
 

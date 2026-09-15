@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedtrooper&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtrooper" /> 
 </p>
 
-📍Preferred time-zone : EST-business
+📍Preferred time-zone : PST-business
 
-## Authored RoleTect | Full-Stack & System Engineer
+## Authored RoleTect
 
 ## 📫 Connect with Me
 

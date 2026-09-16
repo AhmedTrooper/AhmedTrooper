@@ -21,7 +21,7 @@
   [![Outcode rank and score](https://outcode.lol/snippet/AhmedTrooper.svg?period=year&layout=wide)](https://outcode.lol/u/AhmedTrooper)
 
 
-<div align="center">
+<div align="left">
 
 ![Contribution Streak Card](https://git-glyph-puce.vercel.app/api/streak?theme=dracula&hide_border=true&width=400)
 <br><br>

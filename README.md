@@ -18,16 +18,15 @@
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
   [![Outcode rank and score](https://outcode.lol/snippet/AhmedTrooper.svg?period=year&layout=wide)](https://outcode.lol/u/AhmedTrooper)
 
-![GitHub Stats Card](https://git-glyph-puce.vercel.app/api/stats?theme=dracula&hide_border=true&width=400)
+
+<div align="center">
+
+![Contribution Streak Card](https://git-glyph-puce.vercel.app/api/streak?theme=dracula&hide_border=true&width=400)
 <br><br>
-  <img src="https://git-glyph-puce.vercel.app/api/languages?username=AhmedTrooper&theme=dracula&hide_border=true" alt="Top Languages Card" />
-  <br><br>
-  <img src="https://git-glyph-puce.vercel.app/api/pin?username=AhmedTrooper&repo=RoleTect&theme=dracula&hide_border=true" alt="Pinned Repository Card" />
-</div>
+![Top Languages Card](https://git-glyph-puce.vercel.app/api/languages?theme=dracula&hide_border=true&width=400)  <br><br>
+![Pinned Repository Card](https://git-glyph-puce.vercel.app/api/pin?theme=dracula&hide_border=true&width=400)</div>
 
 ---
 

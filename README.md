@@ -21,11 +21,9 @@
 
 <div align="left">
 
-![Contribution Streak Card](https://git-glyph-puce.vercel.app/api/streak?theme=dracula&hide_border=true&width=400)
-<br><br>
-![Top Languages Card](https://git-glyph-puce.vercel.app/api/languages?theme=dracula&hide_border=true&width=400)  <br><br>
-![Pinned Repository Card](https://git-glyph-puce.vercel.app/api/pin?theme=dracula&hide_border=true&width=400)</div>
-![Contribution Streak Card](https://git-glyph-puce.vercel.app/api/streak?theme=dark)
+![Contribution Streak Card](https://git-glyph-puce.vercel.app/api/streak?theme=dark&hide_border=true&width=400)
+![Top Languages Card](https://git-glyph-puce.vercel.app/api/languages?theme=dark&hide_border=true&width=400)
+![Pinned Repository Card](https://git-glyph-puce.vercel.app/api/pin?theme=dark&hide_border=true&width=400)
 
 ---
 

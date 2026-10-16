@@ -16,9 +16,10 @@
 ---
 
 ## 📊 GitHub Statistics
-  [![Outcode rank and score](https://outcode.lol/snippet/AhmedTrooper.svg?period=year&layout=wide)](https://outcode.lol/u/AhmedTrooper)
 
-
+<a href="https://outcode.lol/u/AhmedTrooper" align="left">
+  <img src="https://outcode.lol/snippet/AhmedTrooper.svg?period=year&layout=wide" alt="Outcode rank and score" width="400" />
+</a>
 <div align="left">
 
 ![Contribution Streak Card](https://git-glyph-puce.vercel.app/api/streak?theme=dark&hide_border=true&width=400)

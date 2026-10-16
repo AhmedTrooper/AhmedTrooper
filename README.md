@@ -25,6 +25,7 @@
 <br><br>
 ![Top Languages Card](https://git-glyph-puce.vercel.app/api/languages?theme=dracula&hide_border=true&width=400)  <br><br>
 ![Pinned Repository Card](https://git-glyph-puce.vercel.app/api/pin?theme=dracula&hide_border=true&width=400)</div>
+![Contribution Streak Card](https://git-glyph-puce.vercel.app/api/streak?theme=dark)
 
 ---
 

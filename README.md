@@ -6,15 +6,16 @@
 
 **Software Engineer · Full-Stack & Systems Developer**
 
-Author of **RoleTect** — Building privacy-first software, high-performance Rust backends, and scalable full-stack platforms.
+Author of **RoleTect** — Building local-first desktop systems, high-concurrency Rust backends, and sovereign AI developer tools.
 
 `Dhaka, Bangladesh · Preferred Timezone: PST (Business)`
 
 <br/>
 
-<a href="https://ahmedtrooper.vercel.app"><img src="https://img.shields.io/badge/ahmedtrooper.vercel.app-FA4A2F?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"></a>&nbsp;&nbsp;
-<a href="mailto:B220305006@cse.jnu.ac.bd"><img src="https://img.shields.io/badge/B220305006@cse.jnu.ac.bd-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ahmedtrooper"><img src="https://img.shields.io/badge/ahmedtrooper-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://www.ahmedtrooper.me/"><img src="https://img.shields.io/badge/ahmedtrooper.me-FA4A2F?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"></a>&nbsp;&nbsp;
+<a href="mailto:contact@ahmedtrooper.me"><img src="https://img.shields.io/badge/contact@ahmedtrooper.me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ahmedtrooper/"><img src="https://img.shields.io/badge/ahmedtrooper-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://x.com/ahmedtrooper"><img src="https://img.shields.io/badge/@ahmedtrooper-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>&nbsp;&nbsp;
 <a href="https://github.com/AhmedTrooper"><img src="https://img.shields.io/badge/AhmedTrooper-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
@@ -32,21 +33,24 @@ Author of **RoleTect** — Building privacy-first software, high-performance Rus
         <br/><br/>
         <strong>RoleTect</strong>
         <br/>
-        <sub>Author & Lead Systems Architect</sub>
+        <sub>Product Architect · 2× Award-Winning Career Workspace & LaTeX IDE</sub>
       </div>
       <br/>
-      <p align="center">Free & privacy-first AI career assistant — an S3-enabled alternative to Teal + Overleaf built for speed and data ownership.</p>
+      <p align="center">Local-first desktop app and companion browser extension uniting an embedded 50MB Tectonic LaTeX compiler, encrypted SQLite + S3 sync, Mermaid canvas, and multi-provider AI tailoring (Ollama, Gemini, Claude, Bedrock).</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vue.js&logoColor=4FC08D" />
         <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/Axum-0D1117?style=flat-square&logo=rust&logoColor=FA4A2F" />
-        <img src="https://img.shields.io/badge/Tauri_v2-0D1117?style=flat-square&logo=tauri&logoColor=FFC131" />
+        <img src="https://img.shields.io/badge/Tauri_v2-0D1117?style=flat-square&logo=tauri&logoColor=24C8D8" />
+        <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Bun-0D1117?style=flat-square&logo=bun&logoColor=white" />
       </div>
       <br/>
       <div align="center">
         <a href="https://www.roletect.tech/"><img src="https://img.shields.io/badge/roletect.tech-FA4A2F?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
-        <a href="https://github.com/AhmedTrooper/RoleTect"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-        <a href="https://github.com/AhmedTrooper/RoleTect/blob/main/assets/RoleTect_Architecture.pdf"><img src="https://img.shields.io/badge/Architecture_PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
+        <a href="https://github.com/AhmedTrooper/RoleTect/releases/latest"><img src="https://img.shields.io/github/v/release/AhmedTrooper/RoleTect?style=flat-square&label=Releases&color=24C8D8" /></a>&nbsp;
+        <a href="https://addons.mozilla.org/en-US/firefox/addon/roletect-ingest/"><img src="https://img.shields.io/badge/Firefox_Add--on-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" /></a>&nbsp;
+        <a href="https://github.com/AhmedTrooper/RoleTect/blob/main/assets/RoleTect_Architecture.pdf"><img src="https://img.shields.io/badge/Architecture_PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>&nbsp;
+        <a href="https://github.com/AhmedTrooper/RoleTect"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </div>
       <br/>
     </td>
@@ -57,10 +61,10 @@ Author of **RoleTect** — Building privacy-first software, high-performance Rus
         <br/><br/>
         <strong>Central Repository Hub</strong>
         <br/>
-        <sub>Open-Source Maintainer & Engineer</sub>
+        <sub>Open-Source Maintainer & Systems Engineer</sub>
       </div>
       <br/>
-      <p align="center">Curated index of my system architectures, hackathon prototypes, microservices, and experimental engineering builds.</p>
+      <p align="center">Curated index of my system architectures, hackathon prototypes, microservices, and experimental full-stack engineering builds.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -71,6 +75,59 @@ Author of **RoleTect** — Building privacy-first software, high-performance Rus
       <div align="center">
         <a href="https://github.com/AhmedTrooper/Central"><img src="https://img.shields.io/badge/Central_Hub-FA4A2F?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
         <a href="https://github.com/AhmedTrooper?tab=pinned"><img src="https://img.shields.io/badge/Pinned_Repos-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Systems Research & Specifications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/3566135?s=200&v=4" width="48" style="border-radius: 10px;" />
+        <br/><br/>
+        <strong>Servo Browser Engine — IPC Bottleneck Audit</strong>
+        <br/>
+        <sub>Upstream Systems Research · Native Desktop Shell</sub>
+      </div>
+      <br/>
+      <p align="center">Audited <code>servo-embedder-traits</code> while building a custom Rust desktop shell framework, documenting serialization and latency overhead in <code>WebViewDelegate::load_web_resource</code> and <code>evaluate_javascript</code>.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Servo_Engine-0D1117?style=flat-square&logo=mozilla&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Embedder_Traits-0D1117?style=flat-square" />
+      </div>
+      <br/>
+      <div align="center">
+        <a href="https://github.com/servo/servo/issues/35665"><img src="https://img.shields.io/badge/Upstream_%2335665-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+      <br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/3566135?s=200&v=4" width="48" style="border-radius: 10px;" />
+        <br/><br/>
+        <strong>Servo Browser Engine — Cross-Engine IPC Spec</strong>
+        <br/>
+        <sub>Architectural Specification · Host-to-DOM Bridge</sub>
+      </div>
+      <br/>
+      <p align="center">Authored an architectural specification comparing WebKit (<code>messageHandlers</code>), WebView2, and Chromium (<code>contextBridge</code>) to propose a native bidirectional Host-to-DOM <code>WebMessagePort</code> IPC bridge.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/WebMessagePort-0D1117?style=flat-square" />
+        <img src="https://img.shields.io/badge/WebKit_/_WebView2-0D1117?style=flat-square" />
+        <img src="https://img.shields.io/badge/Chromium_IPC-0D1117?style=flat-square" />
+      </div>
+      <br/>
+      <div align="center">
+        <a href="https://github.com/servo/servo/issues/47370"><img src="https://img.shields.io/badge/Proposal_%2347370-FA4A2F?style=flat-square&logo=github&logoColor=white" /></a>
       </div>
       <br/>
     </td>
@@ -122,7 +179,7 @@ Author of **RoleTect** — Building privacy-first software, high-performance Rus
         <br/><br/>
         <strong>RoboFusion 1.0 Techathon (2026)</strong>
         <br/>
-        <sub>National Techathon Finalist</sub>
+        <sub>Top 15 National Finalist</sub>
         <br/><br/>
         <a href="https://github.com/AhmedTrooper/UFTB"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </div>
@@ -135,7 +192,7 @@ Author of **RoleTect** — Building privacy-first software, high-performance Rus
         <br/><br/>
         <strong>IUT Techathon (2026)</strong>
         <br/>
-        <sub>Inter-University Hackathon Finalist</sub>
+        <sub>Top 26 National Finalist</sub>
         <br/><br/>
         <a href="https://github.com/AhmedTrooper/IUT_Techathon_2026"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </div>
@@ -207,21 +264,6 @@ Author of **RoleTect** — Building privacy-first software, high-performance Rus
   <img src="https://img.shields.io/badge/Microservices-FA4A2F?style=flat-square" />
   <br/><br/>
 </div>
-
-<!--
-Uncomment whenever you want to display AI/ML, Databases & DevOps:
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" />&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <br/><br/>
-</div>
--->
 
 ---
 

@@ -137,7 +137,6 @@ Author of **RoleTect** — Building local-first desktop systems, high-concurrenc
 ---
 
 ## Hackathons & Competitive Programming
-
 <table>
   <tr>
     <td colspan="2" width="100%" valign="top">
@@ -147,10 +146,10 @@ Author of **RoleTect** — Building local-first desktop systems, high-concurrenc
         <br/><br/>
         <strong>NASA Space Apps Challenge (2026)</strong>
         <br/>
-        <sub>Project: The Last Signal</sub>
+        <sub>Project: Rover Villa</sub>
         <br/><br/>
         <a href="https://rovervilla.space/"><img src="https://img.shields.io/badge/Live-FA4A2F?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
-        <a href="https://github.com/AhmedTrooper/The_LastSignal"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/AhmedTrooper/RoverVilla"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </div>
       <br/>
     </td>
@@ -244,6 +243,7 @@ Author of **RoleTect** — Building local-first desktop systems, high-concurrenc
     </td>
   </tr>
 </table>
+
 
 
 

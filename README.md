@@ -1,5 +1,7 @@
 <div align="center">
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedTrooper&label=Profile+Views&color=FA4A2F&style=flat-square" alt="Profile Views">
+</div>
 <br/>
 
 # Md. Ramjan Miah
@@ -299,6 +301,4 @@ Author of **RoleTect** — Building local-first desktop systems, high-concurrenc
   <br/><br/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedTrooper&label=Profile+Views&color=FA4A2F&style=flat-square" alt="Profile Views">
-</div>
+

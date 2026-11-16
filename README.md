@@ -140,6 +140,22 @@ Author of **RoleTect** — Building local-first desktop systems, high-concurrenc
 
 <table>
   <tr>
+    <td colspan="2" width="100%" valign="top">
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🏆_Champion-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" />
+        <br/><br/>
+        <strong>NASA Space Apps Challenge (2026)</strong>
+        <br/>
+        <sub>Project: The Last Signal</sub>
+        <br/><br/>
+        <a href="https://rovervilla.space/"><img src="https://img.shields.io/badge/Live-FA4A2F?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+        <a href="https://github.com/AhmedTrooper/The_LastSignal"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+      <br/>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <br/>
       <div align="center">
@@ -228,6 +244,8 @@ Author of **RoleTect** — Building local-first desktop systems, high-concurrenc
     </td>
   </tr>
 </table>
+
+
 
 <div align="center">
   <br/>
